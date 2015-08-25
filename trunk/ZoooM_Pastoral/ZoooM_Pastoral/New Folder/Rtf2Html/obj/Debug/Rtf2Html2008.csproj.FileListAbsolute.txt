@@ -1,0 +1,1 @@
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\ZoooM_Pastoral\New Folder\bin\Debug\Rtf2Html.exe.config

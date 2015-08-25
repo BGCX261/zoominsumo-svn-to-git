@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\Pers_Pastoral\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\Pers_Pastoral\bin\Debug\Pers_Pastoral.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\Pers_Pastoral\bin\Debug\Pers_Pastoral.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\Pers_Pastoral\bin\Debug\mysql.data.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\Pers_Pastoral\obj\Debug\Pers_Pastoral.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\Pers_Pastoral\obj\Debug\Pers_Pastoral.pdb

@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\ZoooM_Pastoral\New Folder\Parser\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\ZoooM_Pastoral\New Folder\Parser\obj\Debug\Itenso.Rtf.Strings.resources
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\ZoooM_Pastoral\New Folder\Parser\obj\Debug\Parser2008.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\ZoooM_Pastoral\New Folder\bin\Debug\Itenso.Rtf.Parser.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\ZoooM_Pastoral\New Folder\bin\Debug\Itenso.Rtf.Parser.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\ZoooM_Pastoral\New Folder\Parser\obj\Debug\Itenso.Rtf.Parser.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2008\Projects\ZoooM_Pastoral\ZoooM_Pastoral\New Folder\Parser\obj\Debug\Itenso.Rtf.Parser.pdb
